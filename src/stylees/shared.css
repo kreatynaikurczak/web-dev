@@ -6,7 +6,9 @@ body {
 
 p {
   font-family: serif;
-  color: rgb(110, 9, 51);
+  /* color: rgb(110, 9, 51);
+  font-size: large; */
+  /* margin-bottom: 35px; */
 }
 h1 {
   font-family: "Arial Black", Arial, sans-serif;
@@ -15,8 +17,9 @@ h1 {
   color: #4209df;
 }
 a {
-  color: rgb(255, 255, 255);
+  color: rgb(245, 239, 239);
   text-decoration: none;
+  margin-bottom: 50px;
 }
 
 #todays-chellange {
@@ -30,4 +33,36 @@ img {
   width: 200px;
   height: 200px;
   border-radius: 100px;
+}
+#description {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(12, 10, 10);
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 36px;
+}
+
+/* header p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(3, 1, 5);
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 36px;
+} */
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(12, 10, 10);
+  font-weight: bold;
+  font-size: 40px;
+  margin: auto 0 auto 0;
+  /* padding: 50px 0 0 0; */
+  
+}
+
+main p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(12, 10, 10);
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 36px;
 }
